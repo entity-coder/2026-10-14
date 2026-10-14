@@ -1,0 +1,6 @@
+# Python bytecode / caches
+__pycache__/
+*.pyc
+
+# Local DeskSweep undo logs (kept out of git on purpose)
+.desksweep/
